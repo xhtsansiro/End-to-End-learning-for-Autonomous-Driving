@@ -1,4 +1,4 @@
-# **End-to-End Learning using CNN,CNN+LSTM, CNN+GRU, CNN+CT-GRU, CNN+NCP **
+# End-to-End Learning using CNN,CNN+LSTM, CNN+GRU, CNN+CT-GRU, CNN+NCP 
 
 This repo provides the code of end-to-end learning in autonomous driving using different network structures. It includes network structure implementation, data collection, data processing, network training, test of trained policies , visualization of results.
 
